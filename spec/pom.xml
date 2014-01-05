@@ -5,7 +5,7 @@
   <groupId>org.rubydono.LispEA</groupId>
   <artifactId>spec</artifactId>
   <version>0.0.0-SNAPSHOT</version>
-  <name>spec</name>
+  <name>Specification</name>
   <url>http://github.com/RubyTuesdayDONO/LispEA.git</url>
   <packaging>clojure</packaging>
 
