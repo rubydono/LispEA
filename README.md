@@ -63,3 +63,4 @@ Model](http://nvie.com/posts/a-successful-git-branching-model/):
       to the tip of the sandbox, because we'd rather not deal with a
       dangling merge from an absent ancestor once the sandbox is
       garbage-collected.
+    - `box`: shorter version of `sandbox`
