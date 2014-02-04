@@ -4,7 +4,19 @@ Linux Integration Patterns for Enterprise Applications / Lisp Enterprise Archite
 
 ## Mission Statement
 
-LispEA shall specify the [Enterprise Integration Patterns](http://eaipatterns.com/) in technology-agnostic [DSL](https://en.wikipedia.org/wiki/Domain-specific_language)s that can generate compliant implementations for a variety of platforms in order to promote awareness, and facilitate formal adoption, of best practices in enterprise application integration. In particular, the flagship reference implementation shall specify the patterns in a [LISP](http://www.alu.org/alu/res-lisp-history)-flavored DSL for instantiation on a [POSIX](http://pubs.opengroup.org/onlinepubs/9699919799/)-compliant [GNU](http://www.gnu.org/gnu/linux-and-gnu.html)/[Linux](https://www.kernel.org/linux.html) platform. 
+LispEA shall specify the [Enterprise Integration Patterns]
+(http://eaipatterns.com/) in technology-agnostic [DSL]
+(https://en.wikipedia.org/wiki/Domain-specific_language)s
+that can generate compliant implementations for a variety of platforms
+in order to promote awareness, and facilitate formal adoption,
+of best practices in enterprise application integration.
+In particular, the flagship reference implementation
+shall specify the patterns in a [LISP]
+(http://www.alu.org/alu/res-lisp-history)-flavored DSL
+for instantiation on a [POSIX]
+(http://pubs.opengroup.org/onlinepubs/9699919799/)-compliant
+[GNU](http://www.gnu.org/gnu/linux-and-gnu.html)/[Linux]
+(https://www.kernel.org/linux.html) platform.
 
 ## Project Workflow and History Policy
 
@@ -66,3 +78,4 @@ Model](http://nvie.com/posts/a-successful-git-branching-model/):
       to the tip of the sandbox, because we'd rather not deal with a
       dangling merge from an absent ancestor once the sandbox is
       garbage-collected.
+    - `box`: shorter version of `sandbox`
